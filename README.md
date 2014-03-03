@@ -36,11 +36,13 @@ This document outlines principles intended to broadly apply to software for rese
 ### Organizational
 - ISEES
 - NCEAS
+- ...
 
 ### Individual
 - Matthew Jones
 - Mark Schildhauer
 - Steph Hampton
 - Other ISEES SC members
+- ...
 
 
