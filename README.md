@@ -20,7 +20,7 @@ The development of science software typically is done in isolation, within indiv
 - Establish criteria for preserving and sharing software code associated with published scientific results.
 - Incentivize researchers to document, archive and share software code.
 
-## Call for Action (from Mark; delete?)
+## Call for Action (merge with previous section)
 
 Technological advances are creating outstanding new opportunities for investigating challenging science research questions at levels of detail and generality that were impossible in the past.  Full realization of technological potential, however, requires that the scientific community far more effectively develop, reuse, extend, and share software and analyses than is currently the case.  Notable advances in sharing and preserving scientific research data (ref Data Repos doc?) should now be accompanied by similar attention to the codes, programs, models, and applications that we use to collect, organize, simulate, and interpret scientific phenomena. While data provide the evidence for understanding natural phenomena, it is the software used to analyze and interpret the data that enables scientific insight.
 
