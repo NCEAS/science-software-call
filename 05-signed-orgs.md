@@ -1,6 +1,4 @@
-## Signatories (figure out how to do this well)
-
-### Organizational
+### Organizations Endorsing this call
 - [NCEAS](http://www.nceas.ucsb.edu)
 - [ISEES](http://isees.nceas.ucsb.edu)
 - ...
