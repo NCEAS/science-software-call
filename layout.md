@@ -2,6 +2,6 @@
 02-challenges.md
 03-activities.md
 04-action.md
-06-signed-ind.md
-05-signed-orgs.md
+05-signed-ind.md
+06-signed-orgs.md
 
